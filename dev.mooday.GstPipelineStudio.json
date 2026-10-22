@@ -32,8 +32,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.freedesktop.org/-/project/12908/uploads/ec5bcb64ec62931b2f7b96642317f2aa/gst-pipeline-studio-0.7.0.tar.xz",
-          "sha256": "bfcf4a3bee0d5907fdffd7811895c1c4f17dcc57e8edcbeabc62374ce8391789"
+          "url": "https://gitlab.freedesktop.org/-/project/12908/uploads/7210d2ee7f520e9e8977f3a8f2825775/gst-pipeline-studio-0.7.1.tar.xz",
+          "sha256": "d6d619f4bbad1268717effcc79eeae5e3604c256375d81823da1d5ed9881648b"
         }
       ]
     }
